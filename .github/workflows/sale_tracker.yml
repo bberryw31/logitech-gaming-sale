@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  check-jobs:
+  track-sale:
     runs-on: ubuntu-latest
 
     steps:
