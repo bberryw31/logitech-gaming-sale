@@ -23,7 +23,7 @@ jobs:
       run: |
         pip install -r src/requirements.txt
 
-    - name: Check for job openings
+    - name: Check for mouse sales
       run: |
         cd src
         python sale_tracker.py
